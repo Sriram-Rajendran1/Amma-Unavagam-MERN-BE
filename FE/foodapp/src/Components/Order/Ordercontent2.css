@@ -1,0 +1,124 @@
+.ordercontent2-maindiv {
+  font-family: cursive;
+  margin: auto;
+  width: 95%;
+  min-height: 100vh;
+}
+
+.orderimg {
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+  border-radius: 0.2rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ordercontent2-headdivmain {
+  border-radius: 1rem;
+  padding: 1.5rem;
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: rgb(0, 0, 0);
+}
+.ordered-items-div {
+  width: 20%;
+  text-align: center;
+}
+.quantity-div {
+  text-align: center;
+  width: 20%;
+}
+
+.price-div {
+  text-align: center;
+  width: 20%;
+}
+
+.price-with-quantity-div {
+  text-align: center;
+  width: 20%;
+}
+
+.ordercontent2-listdivmain {
+  padding: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: auto;
+  width: 100%;
+}
+.sn-items-div {
+  display: flex;
+  justify-content: space-evenly;
+  width: 20%;
+}
+
+.quantites-div {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.quantites-div-final {
+  font-size: 1rem;
+}
+
+.quantitybuttons {
+  width: 2rem;
+  height: 2rem;
+  font-size: larger;
+}
+
+.price-contentdiv {
+  width: 20%;
+  text-align: center;
+}
+
+.pricewithquantity-contentdiv {
+  text-align: center;
+  width: 20%;
+}
+
+.totalpricediv {
+  width: 70%;
+  padding: 2rem;
+  text-align: end;
+  margin: auto;
+
+  font-size: larger;
+}
+.span1 {
+  padding: 2rem;
+}
+.span2 {
+  padding: 2rem;
+}
+
+.proceedtocheckoutmaindiv {
+  padding: 3rem;
+  text-align: end;
+}
+
+.proceedtocheckoutbutton {
+  background-color: black;
+  font-size: 1.5rem;
+  color: white;
+  padding: 2rem;
+  font-family: cursive;
+  width: 35%;
+  border-radius: 2rem;
+}
+
+.norder {
+  text-align: center;
+  padding: 5rem;
+}

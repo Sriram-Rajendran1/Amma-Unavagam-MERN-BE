@@ -1,0 +1,9 @@
+.content1-div1 {
+  margin: 1rem;
+  height: 0.5rem;
+  border: 2px solid grey;
+}
+
+.content1-div1:hover {
+  background-color: gray;
+}

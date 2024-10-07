@@ -1,0 +1,42 @@
+.content4-maindiv {
+  width: 100%;
+  height: 60vh;
+  padding-top: 3rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  /* background-image: url("../../assets//content3-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.content4-heading1 {
+  font-family: cursive;
+  width: 100%;
+  height: 30vh;
+  text-align: center;
+  padding: 2rem;
+  text-shadow: 2px 3px 2px white;
+}
+
+.content4-button1div {
+  text-align: center;
+}
+
+.content4-button1 {
+  padding: 1.5rem;
+  font-family: cursive;
+  font-size: 40px;
+  border-radius: 2rem;
+  border: none;
+  width: 20rem;
+  background: none;
+  transition: background 0.5s ease, box-shadow 0.5s ease, text-shadow 0.5s ease;
+}
+
+.content4-button1:hover {
+  background: rgb(0, 0, 0);
+  box-shadow: 2px 2px 3px gray;
+  text-shadow: 2px 2px 3px gray;
+  color: white;
+}

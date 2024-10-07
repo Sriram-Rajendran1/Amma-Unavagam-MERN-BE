@@ -1,0 +1,30 @@
+.menudiv2 {
+  margin: 1rem;
+  text-align: center;
+  padding: 2rem;
+  font-family: cursive;
+  font-size: 1.25rem;
+}
+.menuheading1 {
+  font-family: cursive;
+  text-align: center;
+  margin: 1rem;
+}
+.menusearch {
+  padding: 1rem;
+}
+
+.menusearchinput {
+  padding: 1rem;
+  border-radius: 1rem;
+  font-family: cursive;
+}
+
+.menusearchbutton {
+  padding: 1rem;
+  margin: 1rem;
+  font-family: cursive;
+  border-radius: 0.5rem;
+  background-color: black;
+  color: white;
+}

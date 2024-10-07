@@ -1,0 +1,82 @@
+.dl-headmain {
+  margin-top: 1rem;
+  background-color: rgb(0, 0, 0);
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.dl-heading1 {
+  text-align: center;
+  font-family: cursive;
+  color: white;
+}
+.form-dl-divmain {
+  box-shadow: 1px 2px 3px 4px gray;
+  width: 90%;
+  font-family: cursive;
+  height: 100vh;
+  margin: auto;
+  margin-bottom: 1rem;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.namediv {
+  padding: 1rem;
+  width: 40%;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.inputdiv {
+  padding: 1rem;
+  width: 40%;
+  text-align: start;
+}
+
+.dl-name {
+  display: flex;
+  justify-content: space-evenly;
+}
+.dl-phone {
+  display: flex;
+  justify-content: space-evenly;
+}
+.dl-landmark {
+  display: flex;
+  justify-content: space-evenly;
+}
+.dl-address {
+  display: flex;
+  justify-content: space-evenly;
+}
+input {
+  padding: 1rem;
+  width: 15rem;
+  font-family: cursive;
+  border-radius: 1rem;
+}
+
+.dl-buttondiv {
+  padding: 1rem;
+  text-align: center;
+}
+
+.dl-btn {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 10rem;
+  height: 3rem;
+  border-radius: 1rem;
+  font-family: cursive;
+  font-size: 1.2rem;
+}
+
+.orderplaced {
+  background-color: green;
+  color: black;
+  font-family: cursive;
+  padding: 3rem;
+  text-align: center;
+}
